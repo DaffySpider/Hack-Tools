@@ -1,2 +1,0 @@
-db_connect msf:msf123@127.0.0.1/msf
-load msgrpc Pass=Hteet911
