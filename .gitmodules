@@ -1,3 +1,6 @@
 [submodule "PowerSploit"]
 	path = PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Web-Tools/ysoserial"]
+	path = Web-Tools/ysoserial
+	url = https://github.com/frohoff/ysoserial.git
